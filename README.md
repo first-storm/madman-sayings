@@ -2,6 +2,10 @@
 
 His best moments. **Don't take it too seriously, we're just having a laugh at his expense.**
 
+His QQ account: **1576570260**
+
+His QQ Zone: [Click Here](https://user.qzone.qq.com/1576570260)
+
 ## English Version
 
 For the English version, please [Click Here](https://github.com/first-storm/yingshao-sayings/blob/main/en-us.md).
