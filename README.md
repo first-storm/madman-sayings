@@ -4,8 +4,8 @@ His best moments. **Don't take it too seriously, we're just having a laugh at hi
 
 ## English Version
 
-For the English version, please [Click Here](https://example.com/english-doc).
+For the English version, please [Click Here](https://github.com/first-storm/yingshao-sayings/blob/main/en-us.md).
 
 ## 中文版
 
-中文版，请看[这里](https://example.com/chinese-doc).
+中文版，请看[这里](https://github.com/first-storm/yingshao-sayings/blob/main/zh-cn.md).
