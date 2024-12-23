@@ -104,9 +104,7 @@
 
 52. Some browsers seem to be whitelisting already, making it impossible to access things even with a VPN. Blocking 127.0.0.1 is just around the corner.
 
-53. I have no fear. If you need someone to handle anti-authoritarian or whistleblowing activities, I can be your spokesperson
-
-.
+53. I have no fear. If you need someone to handle anti-authoritarian or whistleblowing activities, I can be your spokesperson.
 
 54. It's frustrating—I’ve been unemployed for years.
 
